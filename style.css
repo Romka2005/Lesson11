@@ -1,8 +1,10 @@
-body{
-    background: yellow;
+*{
     margin: auto;
     display: block;
     text-align: center;
+}
+body{
+    background: yellow;
 }
 .text_box img{
     max-width: 100%;
